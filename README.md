@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=haticecandan&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi, I'm Hatice Candan 👋</h1>
+<h1 align="center">Hi, I'm Hatice Candan, M.Sc. 👋</h1>
 
 <h3 align="center">AI Engineer · Machine Learning Practitioner · Cybersecurity Enthusiast</h3>
 
@@ -40,6 +40,8 @@ A retrieval-augmented help desk system built around **Qwen3**, served locally wi
 
 Academic research applying **YOLOv8** to tomato leaf disease detection. The work explores deep-learning-based object detection for agricultural diagnosis, with an emphasis on model evaluation and the practical value of computer vision in precision agriculture.
 
+📄 [Read the published paper](https://doi.org/10.51271/JCEEES-0034)
+
 ### ⚙️ AI Engineering & Deployment
 
 I build Python-based AI services with **FastAPI** and package applications using **Docker**. I also work with **Kubernetes** concepts and workflows for scalable deployment and orchestration.
@@ -65,6 +67,22 @@ I build Python-based AI services with **FastAPI** and package applications using
 `LangGraph` · `ChromaDB` · `Google Cloud Platform`
 
 > These are active learning areas and are not presented as completed production expertise.
+
+## Publications
+
+### Intelligent Diagnosis of Tomato Leaf Diseases Using YOLOv8
+
+**Hatice Candan**, Hüseyin Aydilek, and Mustafa Yasin Erten  
+*Journal of Computer & Electrical and Electronics Engineering Sciences*, 2026, 4(1), 27–33.
+
+[View publication](https://doi.org/10.51271/JCEEES-0034) · `DOI: 10.51271/JCEEES-0034`
+
+### An Ensemble Learning Approach for Cyber Attack Detection on NSL-KDD and UNSW-NB15 Datasets
+
+**Hatice Candan**, Mustafa Yasin Erten, and Hüseyin Aydilek  
+*10th International Conference on Computer Science and Engineering (UBMK), IEEE*, 2025, 782–787.
+
+[View publication on IEEE](https://doi.org/10.1109/UBMK67458.2025.11206999) · `DOI: 10.1109/UBMK67458.2025.11206999`
 
 ## GitHub Activity
 
