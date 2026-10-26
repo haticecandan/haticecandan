@@ -1,30 +1,86 @@
 ![Hatice Candan](https://github.com/haticecandan/haticecandan/blob/main/github-header-imagee.png)
-![](https://komarev.com/ghpvc/?username=haticecandan&color=blueviolet&style=for-the-badge) 
-<h3 align="center">I'm an Electrical & Electronics Engineer who is passionate about Machine Learning and Data Science from Turkey. 
-I really enjoy working with Python and open to work freelance projects and job offers. </h3> 
 
-- 🔭 I’m currently working on AI projects 
-
-- 🌱 I’m currently learning **Flask**
-
-- 📝 I regularly write articles on [https://medium.com/@haticecandan](https://medium.com/@haticecandan)
-
-- 📫 How to reach me **hatcan95@gmail.com**
-  
-<img src="https://github-readme-stats.vercel.app/api?username=haticecandan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticecandan)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@candanimsi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@candanimsi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haticecandan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haticecandan/" height="30" width="40" /></a>
-<a href="https://medium.com/@haticecandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haticecandan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haticecandan&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
+<h1 align="center">Hi, I'm Hatice Candan 👋</h1>
 
+<h3 align="center">AI Engineer · Machine Learning Practitioner · Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  Electrical & Electronics Engineer from Türkiye, building practical AI systems at the intersection of machine learning, generative AI, backend engineering, and cybersecurity.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haticecandan/"><img src="https://img.shields.io/badge/LinkedIn-Hatice%20Candan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@haticecandan"><img src="https://img.shields.io/badge/Medium-@haticecandan-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:hatcan95@gmail.com"><img src="https://img.shields.io/badge/Email-hatcan95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## About Me
+
+- 🤖 I develop AI and machine learning solutions with a focus on real-world impact.
+- 🔐 I am especially interested in cybersecurity, threat intelligence, and AI-assisted security systems.
+- 🧠 I work with local and open-source LLMs, retrieval-augmented generation, and production-ready Python APIs.
+- 📚 I have a strong academic foundation and enjoy turning research into usable systems.
+- 🌱 I am currently expanding my hands-on experience with **LangGraph**, **ChromaDB**, and **Google Cloud Platform**.
+
+## Featured Work
+
+### 🛡️ Obsolix — DNS Threat Detection
+
+An AI-focused cybersecurity project for detecting and analyzing suspicious DNS activity. Obsolix brings together threat-detection workflows, domain and DNS intelligence, and machine learning concepts to support faster investigation of potential security risks.
+
+### 💬 RAG Help Desk with Qwen3
+
+A retrieval-augmented help desk system built around **Qwen3**, served locally with **Ollama**, and integrated with the **Hugging Face** ecosystem. The project focuses on grounded responses, private/local inference, and a practical support workflow exposed through a **FastAPI** backend.
+
+### 🍅 Tomato Leaf Disease Detection with YOLOv8
+
+Academic research applying **YOLOv8** to tomato leaf disease detection. The work explores deep-learning-based object detection for agricultural diagnosis, with an emphasis on model evaluation and the practical value of computer vision in precision agriculture.
+
+### ⚙️ AI Engineering & Deployment
+
+I build Python-based AI services with **FastAPI** and package applications using **Docker**. I also work with **Kubernetes** concepts and workflows for scalable deployment and orchestration.
+
+## Tech Stack
+
+### AI, Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="AI and machine learning technologies" />
+</p>
+
+`YOLOv8` · `Hugging Face` · `Qwen3` · `Ollama` · `RAG` · `Pandas` · `NumPy`
+
+### Backend, Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,gcp,git,github,linux,vscode" alt="Backend, infrastructure, and development tools" />
+</p>
+
+### Currently Exploring
+
+`LangGraph` · `ChromaDB` · `Google Cloud Platform`
+
+> These are active learning areas and are not presented as completed production expertise.
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haticecandan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hatice's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticecandan&layout=compact&theme=tokyonight&hide_border=true" alt="Hatice's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haticecandan&theme=tokyonight&hide_border=true" alt="Hatice's GitHub contribution streak" />
+</p>
+
+## Let's Connect
+
+I am open to collaborating on meaningful projects in **AI, machine learning, generative AI, and cybersecurity**.
+
+- [LinkedIn](https://www.linkedin.com/in/haticecandan/)
+- [Medium](https://medium.com/@haticecandan)
+- [Email](mailto:hatcan95@gmail.com)
